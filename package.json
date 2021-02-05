@@ -1,0 +1,31 @@
+{
+  "name": "node-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teyfik-on-it/node-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teyfik-on-it/node-modules/issues"
+  },
+  "homepage": "https://github.com/teyfik-on-it/node-modules#readme",
+  "dependencies": {
+    "@angular/cli": "^11.1.4",
+    "@angular/common": "^11.1.2",
+    "@angular/compiler": "^11.1.2",
+    "@angular/core": "^11.1.2",
+    "@angular/forms": "^11.1.2",
+    "@angular/http": "^7.2.16",
+    "@angular/platform-browser": "^11.1.2",
+    "@angular/platform-browser-dynamic": "^11.1.2",
+    "@angular/router": "^11.1.2"
+  }
+}
